@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# VSCode
+.vscode/
+
+# Streamlit generated
+.streamlit/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
